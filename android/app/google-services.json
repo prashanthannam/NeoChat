@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992618397595",
+    "firebase_url": "https://focused-catfish-268210.firebaseio.com",
+    "project_id": "focused-catfish-268210",
+    "storage_bucket": "focused-catfish-268210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992618397595:android:921c340a487f2eddd7ab3e",
+        "android_client_info": {
+          "package_name": "com.prash.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992618397595-tpvq0jt1a3gulvo2ej6atfluh9237uuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBod0rdcA7udhSKFJkmt9WdZDDie0jOO0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992618397595-tpvq0jt1a3gulvo2ej6atfluh9237uuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
